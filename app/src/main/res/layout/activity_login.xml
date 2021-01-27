@@ -9,14 +9,14 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="130dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="30dp"
         android:src="@drawable/logo" />
 
     <EditText
         android:id="@+id/et_lusername"
         android:layout_width="190dp"
         android:layout_height="40dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="20dp"
         android:background="#ffff"
         android:drawableLeft="@drawable/username"
         android:hint="@string/user_name"
@@ -27,7 +27,7 @@
         android:id="@+id/et_lpassword"
         android:layout_width="190dp"
         android:layout_height="40dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="20dp"
         android:background="#ffff"
         android:drawableLeft="@drawable/password"
         android:hint="@string/password"
@@ -45,7 +45,7 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="7dp"
         android:orientation="horizontal">
 
         <TextView
