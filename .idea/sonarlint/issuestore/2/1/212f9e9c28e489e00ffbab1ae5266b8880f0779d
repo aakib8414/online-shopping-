@@ -1,0 +1,34 @@
+
+G
+java:S5411>"*Use the primitive boolean expression here.(Å˜âã8ÉŠƒûó.
+p	java:S116"TRename this field "btn_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¼ˆ¿8îá˜€ô.
+M
+java:S1659"+Declare "reg_firstName" on a separate line.(…¯˜øûÿÿÿÿ8›¸‡ô.
+u	java:S116"TRename this field "reg_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8›¸‡ô.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒìÏ8ÉŠƒûó.
+]	java:S125"<This block of commented-out lines of code should be removed.(«ü¼ûÿÿÿÿ8Ó¤™€ô.
+I
+java:S1659"'Declare "reg_email" on a separate line.(…¯˜øûÿÿÿÿ8›¸‡ô.
+x	java:S116"WRename this field "reg_lastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8›¸‡ô.
+w	java:S116"VRename this field "et_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8ÉŠƒûó.
+G
+java:S5411@"*Use the primitive boolean expression here.(˜¿¬‚8ÉŠƒûó.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨Œşÿÿÿÿ8Ó¤™€ô.
+L
+java:S1659"*Declare "et_cpassword" on a separate line.(…¯˜øûÿÿÿÿ8ÉŠƒûó.
+P
+java:S1659".Declare "reg_confirmemail" on a separate line.(…¯˜øûÿÿÿÿ8›¸‡ô.
+E
+java:S1125>"(Remove the literal "true" boolean value.(Å˜âã8Ó¤™€ô.
+E
+java:S1125@"(Remove the literal "true" boolean value.(˜¿¬‚8Ó¤™€ô.
+K
+java:S1659")Declare "et_password" on a separate line.(…¯˜øûÿÿÿÿ8ÉŠƒûó.
+x	java:S116"WRename this field "btn_register" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ü¼ûÿÿÿÿ8ÉŠƒûó.
+w	java:S116"VRename this field "et_username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8ÉŠƒûó.
+L
+java:S1659"*Declare "reg_lastName" on a separate line.(…¯˜øûÿÿÿÿ8›¸‡ô.
+y	java:S116"XRename this field "reg_firstName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8›¸‡ô.
+x	java:S116"WRename this field "et_cpassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8ÉŠƒûó.
+|	java:S116"[Rename this field "reg_confirmemail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¯˜øûÿÿÿÿ8›¸‡ô.

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">login Registration</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_register">Already Register?</string>
+    <string name="login">LOGIN</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello User</string>
+    <string name="nav_header_subtitle">Online Shopping</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">LogOut</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_products">Products</string>
+    <string name="menu_order">Orders</string>
+    <string name="menu_category">categories</string>
+    <string name="logout">LogOut</string>
+
+</resources>
